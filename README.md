@@ -5,7 +5,7 @@ This project depend on Nodejs, please install Nodejs in your server first.
 
 ## Installation Guide
 
-1. sudo apt-getinstall nodejs
+1. sudo apt-get install nodejs
 2. pip install -r requirements.txt
 
 
