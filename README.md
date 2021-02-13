@@ -1,7 +1,7 @@
 # iptv
 An simple iptv parser that satisfied myself requirement.
 
-This project depend on Nodejs, Please install Nodejs in your server first.
+This project depend on Nodejs, please install Nodejs in your server first.
 
 ## Installation Guide
 
